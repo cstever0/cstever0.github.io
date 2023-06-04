@@ -3314,3 +3314,8 @@ input, select, textarea {
 			}
 
 	}
+
+.title {
+	display: flex;
+	justify-content: space-between;
+}
